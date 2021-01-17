@@ -1,8 +1,8 @@
 //
-//  AnalysisResultViewController.swift
-//  Module-Example
+//  ImageAnalyzerService.swift
+//  AnimalAnalyzer
 //
-//  Created by Marcio Fetter on 13/01/21.
+//  Created by Leticia Sousa Siqueira on 16/01/21.
 //
 
 import Foundation
