@@ -1,0 +1,6 @@
+framework module Pods_AnimalAnalyzer_Example {
+  umbrella header "Pods-AnimalAnalyzer_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,27 @@
+PODS:
+  - AnimalAnalyzer (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - AnimalAnalyzer (from `../`)
+  - FBSnapshotTestCase (~> 2.1.4)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  AnimalAnalyzer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AnimalAnalyzer: 56ea0924b2c4e93206ecae990f07a0d5b1e7c1d7
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 614764b316017ce1c14b0a31f31818b34650f364
+
+COCOAPODS: 1.10.1

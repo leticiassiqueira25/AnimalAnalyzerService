@@ -1,0 +1,6 @@
+framework module AnimalAnalyzer {
+  umbrella header "AnimalAnalyzer-umbrella.h"
+
+  export *
+  module * { export * }
+}
